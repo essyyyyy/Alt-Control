@@ -2568,9 +2568,9 @@ else
     game.Players.LocalPlayer:Kick("Only da hood.")
 end
 
-local theGroup = 14728979 -- your group id here
+local theGroup = 14037073 -- your group id here
 if game.Players.LocalPlayer:GetRankInGroup(theGroup) == 2 then
     print('Whitelisted')
 else
-    game.Players.LocalPlayer:Kick('Nigger Tryed To Bypass Buy It Faggot!')
+    game.Players.LocalPlayer:Kick('Buy Prem To Use lmao')
 end
