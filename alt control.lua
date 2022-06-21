@@ -1677,7 +1677,7 @@ if game.PlaceId == 2788229376 then
         Rank_17.Size = UDim2.new(0, 513, 0, 226)
         Rank_17.Font = Enum.Font.Code
         Rank_17.Text =
-            "This script is Made By Ghouls/Muso"
+            "This script is Made By ! E13#5808"
         Rank_17.TextColor3 = Color3.fromRGB(220, 220, 220)
         Rank_17.TextSize = 18.000
         Rank_17.TextWrapped = true
@@ -1826,7 +1826,7 @@ if game.PlaceId == 2788229376 then
         Title_3.Position = UDim2.new(0.123752303, 0, 0.0177514795, 0)
         Title_3.Size = UDim2.new(0, 153, 0, 21)
         Title_3.Font = Enum.Font.Code
-        Title_3.Text = "Ghoul's Alt Control Gui"
+        Title_3.Text = "E13 Alt Control Gui"
         Title_3.TextColor3 = Color3.fromRGB(220, 220, 220)
         Title_3.TextSize = 14.000
         Title_3.TextWrapped = true
@@ -2390,7 +2390,7 @@ if game.PlaceId == 2788229376 then
             TextLabel.Position = UDim2.new(0.379002213, 0, 0.0237247907, 0)
             TextLabel.Size = UDim2.new(0, 325, 0, 54)
             TextLabel.Font = Enum.Font.Code
-            TextLabel.Text = "Ghoul's Alt Control"
+            TextLabel.Text = "E13's Alt Control"
             TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel.TextScaled = true
             TextLabel.TextSize = 14.000
@@ -2442,7 +2442,7 @@ if game.PlaceId == 2788229376 then
             TextLabel_2.Position = UDim2.new(0.378997803, 0, 0.869513631, 0)
             TextLabel_2.Size = UDim2.new(0, 325, 0, 54)
             TextLabel_2.Font = Enum.Font.Code
-            TextLabel_2.Text = "Ghouls Alt Control W!"
+            TextLabel_2.Text = "! E13#5808 Alt Control W!"
             TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel_2.TextScaled = true
             TextLabel_2.TextSize = 14.000
@@ -2455,7 +2455,7 @@ if game.PlaceId == 2788229376 then
             TextLabel_3.Position = UDim2.new(0.161833152, 0, 0.290628701, 0)
             TextLabel_3.Size = UDim2.new(0, 907, 0, 54)
             TextLabel_3.Font = Enum.Font.Code
-            TextLabel_3.Text = "Name: HOLDERRR"
+            TextLabel_3.Text = "Name: Enter Name"
             TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel_3.TextSize = 49.000
             TextLabel_3.TextWrapped = true
@@ -2468,7 +2468,7 @@ if game.PlaceId == 2788229376 then
             TextLabel_4.Position = UDim2.new(0.161833152, 0, 0.371293008, 0)
             TextLabel_4.Size = UDim2.new(0, 907, 0, 54)
             TextLabel_4.Font = Enum.Font.Code
-            TextLabel_4.Text = "Money: HOLDER"
+            TextLabel_4.Text = "Money: Enter Name"
             TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
             TextLabel_4.TextSize = 49.000
             TextLabel_4.TextWrapped = true
@@ -2568,9 +2568,9 @@ else
     game.Players.LocalPlayer:Kick("Only da hood.")
 end
 
-local theGroup = 14037073 -- your group id here
-if game.Players.LocalPlayer:GetRankInGroup(theGroup) == 2 then
+local theGroup = 14037073-- your group id here
+if game.Players.LocalPlayer:GetRankInGroup(theGroup) == 5 then
     print('Whitelisted')
 else
-    game.Players.LocalPlayer:Kick('Buy Prem To Use lmao')
+    game.Players.LocalPlayer:Kick('To Buy Dm ! E13#5808!')
 end
