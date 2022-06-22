@@ -1128,7 +1128,7 @@ if game.PlaceId == 2788229376 then
 
         Main.Name = "Main"
         Main.Parent = HoxLZwzeCYfVwOkTlmXO
-        Main.BackgroundColor3 = Color3.fromRGB(31, 31, 31)
+        Main.BackgroundColor3 = Color3.fromRGB((255,0,255))
         Main.BorderSizePixel = 0
         Main.Position = UDim2.new(0.168555707, 0, 0.392983228, 0)
         Main.Size = UDim2.new(0, 606, 0, 338)
