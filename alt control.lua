@@ -2622,10 +2622,3 @@ if game.PlaceId == 2788229376 then
 else
     game.Players.LocalPlayer:Kick("Only da hood.")
 end
-
-local theGroup = 14037073-- your group id here
-if game.Players.LocalPlayer:GetRankInGroup(theGroup) == 5 then
-    print('Whitelisted')
-else
-    game.Players.LocalPlayer:Kick('To Buy Dm ! E13#5808!')
-end
