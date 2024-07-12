@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MsorkyScripts/OpenSourceAntiCheat/main/AntiCheatBypass.txt"))()
 if game.PlaceId == 2788229376 then
     getgenv().adverting = false
     local vu = game:GetService("VirtualUser")
