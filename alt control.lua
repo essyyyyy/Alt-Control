@@ -1,8 +1,3 @@
-if (game.PlaceId ~= 2788229376) then
-    return
-end
-
--- // Services
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 -- // Vars
